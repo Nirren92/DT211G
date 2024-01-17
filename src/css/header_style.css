@@ -89,9 +89,22 @@ header
     nav ul li 
     {
         display: block;
-        width: 80px;
+        width: 100px;
         height: 30px;
         background-color: aqua;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    nav ul li:hover 
+    {
+        
+        width: 100px;
+        height: 30px;
+        background-color: rgb(255, 255, 255);
+        color: black;
+      
     }
 
 
@@ -104,10 +117,10 @@ header
 
     .menu_img
     {
-        width: 20%;
-        height: 80%;
-      display: unset;
-        padding: 1%;
+        height: 50px;
+      
+        display: unset;
+        padding: 2%;
         
     }
 

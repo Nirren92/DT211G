@@ -14,6 +14,13 @@ header
     
 }
 
+.home_icon
+{
+    width: 25px;
+    margin: 10px;
+    display: none;
+}
+
 @media only screen and (min-width: 350px) {
     nav ul
     {
@@ -21,14 +28,20 @@ header
         margin: 0px;
         padding: 0;
         display: flex;
+        
     }
 
+
+    .home_icon
+    {
+        display: unset;
+    }
 
     nav ul li 
     {
         display: inline-block;
-        width: 80px;
-        height: 30px;
+        width: 100px;
+       
         background-color: aqua;
 
 
@@ -58,7 +71,7 @@ header
         display: flex;
         width: 100%;
         justify-content: flex-start;
-    
+        height: 100%;
     }
 
 

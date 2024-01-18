@@ -1,6 +1,6 @@
 main
 {
-    margin-top: 10%;
+    margin-top: 2%;
 }
 
 main .container
@@ -23,7 +23,8 @@ main .ruta
 main .ruta img
 {
     
-    width: 50%;
+    width: 25%;
+    margin: 10px;
 }
 
 
@@ -31,4 +32,36 @@ main .ruta h1
 {
     font-size: 5vw;
     margin: 2%;
+}
+
+main .galleri 
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+main .galleri img
+{
+    width: 200px;
+    margin: 10px;
+
+}
+
+
+
+@media only screen and (max-width: 349px) 
+{
+
+
+
+    main .galleri img
+    {
+        width: 80%;
+        margin: unset;
+    
+    }
+
+
 }

@@ -130,11 +130,18 @@ header
 
     .menu_img
     {
+        display: unset;
+        margin: 10%;
+    }
+
+
+    .menu_img img
+    {
         height: 50px;
       
         display: unset;
         padding: 2%;
-        
+     
     }
 
     nav img:hover

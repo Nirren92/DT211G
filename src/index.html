@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="js/javascriptheader.js" ></script>
+    <script src="js/javascriptheader.js"></script>
     
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/header_style.css">
+    <link rel="stylesheet" href="css/main_style.css">
     <title>Moment 1</title>
 
 </head>
@@ -17,9 +18,12 @@
         <nav >
 
 
-           
-            <img id="menu_knappen" onclick="show_menu()" class="menu_img" src="img/menu.png" alt="ikon för att öppna och stänga meny">
-       
+            <picture id="menu_knappen" onclick="show_menu()" class="menu_img">
+                <source srcset="img\menu.png?as=webp" type="image/webp" />
+                <img src="img\cancel.png?width=100" alt="ikon för att öppna och stänga meny" />
+            </picture>
+
+        
             <ul id="menu_innehall" >
                 <li><a href="index.html">
                     <img class="home_icon" src="img/home.png" alt="Home icon">
@@ -29,10 +33,23 @@
             </ul>
 
         </nav>
-
+    </header>
        
         <main>
 
+
+            <div class="container">
+
+                <div class="ruta">
+                   
+                   
+                   <p>Här har vi text</p>
+                    <img  src="img/home.png" alt="Home icon">
+                </div>
+            </div>
+
+
+           
 
 
 
@@ -42,7 +59,7 @@
 
         
 
-    </header>
+   
 
 </body>
 </html>

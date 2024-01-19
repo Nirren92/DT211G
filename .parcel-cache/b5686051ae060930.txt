@@ -1,4 +1,4 @@
-7126
+7128
 118D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\prepare-tokens.js133499875919072122 0
 80D:\studier\DT211G\moment1\DT211G\node_modules\source-map-js\lib\binary-search.js133499875891073307 0
 98D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\expat_config.h133117882010000000 0
@@ -15,7 +15,7 @@
 135D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\gdk-pixbuf-2.0\gdk-pixbuf\gdk-pixbuf-autocleanups.h133117882010000000 0
 59D:\studier\DT211G\moment1\DT211G\node_modules\source-map-js133499875895646088 1
 80D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\utils\test\urlJoin.test.js133499875915775858 0
-50D:\studier\DT211G\moment1\DT211G\src\pictures.html133500898559499403 0
+50D:\studier\DT211G\moment1\DT211G\src\pictures.html133501457499676673 0
 83D:\studier\DT211G\moment1\DT211G\node_modules\posthtml\node_modules\posthtml-parser133499875891354929 1
 93D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\keyboardevent-key.js133499875948437860 0
 66D:\studier\DT211G\moment1\DT211G\node_modules\simple-get\README.md133500862665752170 0
@@ -50,7 +50,7 @@
 97D:\studier\DT211G\moment1\DT211G\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts133499875897030653 0
 85D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\transformer-babel\src\config.js133499875892999985 0
 70D:\studier\DT211G\moment1\DT211G\node_modules\abortcontroller-polyfill133499875894303485 1
-37D:\studier\DT211G\moment1\DT211G\dist133500899842551917 1
+37D:\studier\DT211G\moment1\DT211G\dist133501457559056615 1
 114D:\studier\DT211G\moment1\DT211G\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133499875892729854 0
 89D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133499875899200747 0
 77D:\studier\DT211G\moment1\DT211G\node_modules\lmdb\dependencies\lz4\lib\lz4.c133499875902986495 0
@@ -165,7 +165,7 @@
 65D:\studier\DT211G\moment1\DT211G\node_modules\type-fest\base.d.ts133499875891696014 0
 106D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\lib\syntax\node\index-generate.js133499875925261405 0
 104D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Declaration.cjs133499875902976528 0
-47D:\studier\DT211G\moment1\DT211G\src\index.html133500899148375948 0
+47D:\studier\DT211G\moment1\DT211G\src\index.html133501457553014415 0
 114D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-markup.h133117882010000000 0
 66D:\studier\DT211G\moment1\DT211G\node_modules\msgpackr-extract\bin133499875888463201 1
 100D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\expat_external.h133117882010000000 0
@@ -178,7 +178,7 @@
 55D:\studier\DT211G\moment1\DT211G\node_modules\lru-cache133499875888132075 1
 96D:\studier\DT211G\moment1\DT211G\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133499875918862683 0
 82D:\studier\DT211G\moment1\DT211G\node_modules\css-tree\cjs\syntax\atrule\media.cjs133499875915745933 0
-60D:\studier\DT211G\moment1\DT211G\dist\index.c92073ef.css.map133500898678290577 0
+60D:\studier\DT211G\moment1\DT211G\dist\index.c92073ef.css.map133501457558135954 0
 110D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AttributeSelector.cjs133499875893050746 0
 87D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\css-filters.js133499875924832542 0
 98D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\lcms2_plugin.h133117882010000000 0
@@ -200,7 +200,7 @@
 101D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\parser133499875920246014 1
 109D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\index.js133499875895045827 0
 95D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc133117882010000000 1
-55D:\studier\DT211G\moment1\DT211G\src\css\main_style.css133500899841987833 0
+55D:\studier\DT211G\moment1\DT211G\src\css\main_style.css133500910746762284 0
 110D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftcid.h133117882010000000 0
 92D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\cjs\utils\names.cjs133499875915775858 0
 57D:\studier\DT211G\moment1\DT211G\src\css\header_style.css133500878269819959 0
@@ -769,7 +769,7 @@
 82D:\studier\DT211G\moment1\DT211G\node_modules\svgo\plugins\removeOffCanvasPaths.js133499875915244699 0
 106D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gslice.h133117882010000000 0
 79D:\studier\DT211G\moment1\DT211G\node_modules\htmlnano\docs\docs\050-modules.md133499875913347936 0
-56D:\studier\DT211G\moment1\DT211G\dist\menu.bbe894b6.webp133500898678260655 0
+56D:\studier\DT211G\moment1\DT211G\dist\menu.bbe894b6.webp133501457558026253 0
 107D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133499875902812778 0
 68D:\studier\DT211G\moment1\DT211G\node_modules\term-size\vendor\macos133499875888513078 1
 102D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\lib\syntax\node\StyleSheet.js133499875928276652 0
@@ -1777,7 +1777,7 @@
 110D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gfileutils.h133117882010000000 0
 70D:\studier\DT211G\moment1\DT211G\node_modules\detect-libc\package.json133499875886647409 0
 58D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor133500862683834845 1
-59D:\studier\DT211G\moment1\DT211G\dist\index.a8c929d2.js.map133500898678121029 0
+59D:\studier\DT211G\moment1\DT211G\dist\index.a8c929d2.js.map133500900041412298 0
 65D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3133500862683834845 1
 117D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gobject\glib-enumtypes.h133117882010000000 0
 90D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\lib\utils\List.js133499875926263625 0
@@ -2086,7 +2086,7 @@
 106D:\studier\DT211G\moment1\DT211G\node_modules\prebuild-install\node_modules\detect-libc\lib\detect-libc.js133500862664053982 0
 76D:\studier\DT211G\moment1\DT211G\node_modules\@swc\helpers\src\_inherits.mjs133499875936628010 0
 105D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orcmips.h133117882010000000 0
-56D:\studier\DT211G\moment1\DT211G\dist\index.bfeaffa8.css133500899842512031 0
+56D:\studier\DT211G\moment1\DT211G\dist\index.bfeaffa8.css133501457557961275 0
 68D:\studier\DT211G\moment1\DT211G\node_modules\picomatch\package.json133499875892620126 0
 130D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133499875902038668 0
 111D:\studier\DT211G\moment1\DT211G\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gobject\gbinding.h133117882010000000 0
@@ -2955,6 +2955,7 @@
 76D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\codeframe\package.json133499875901603974 0
 81D:\studier\DT211G\moment1\DT211G\node_modules\css-tree\cjs\syntax\atrule\page.cjs133499875917750044 0
 67D:\studier\DT211G\moment1\DT211G\node_modules\sharp\lib\platform.js133500862666491067 0
+58D:\studier\DT211G\moment1\DT211G\dist\pictures.a8c929d2.js133501457558956593 0
 66D:\studier\DT211G\moment1\DT211G\node_modules\sharp\lib\utility.js133500862666520999 0
 91D:\studier\DT211G\moment1\DT211G\node_modules\@babel\highlight\node_modules\chalk\readme.md133499875891033412 0
 59D:\studier\DT211G\moment1\DT211G\node_modules\rc\browser.js133500862665192913 0
@@ -2991,7 +2992,7 @@
 89D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\cjs\syntax\scope133499875920996769 1
 101D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Function.cjs133499875907730094 0
 62D:\studier\DT211G\moment1\DT211G\node_modules\semver\README.md133499875909729536 0
-56D:\studier\DT211G\moment1\DT211G\dist\index.0dbfd4c9.css133500898678081138 0
+56D:\studier\DT211G\moment1\DT211G\dist\index.0dbfd4c9.css133501457558175590 0
 66D:\studier\DT211G\moment1\DT211G\node_modules\semver\ranges\ltr.js133499875899102092 0
 81D:\studier\DT211G\moment1\DT211G\node_modules\@swc\helpers\cjs\_object_spread.cjs133499875913508522 0
 81D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\const.js133499875920896000 0
@@ -3623,7 +3624,7 @@
 92D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\core\src\requests\AssetGraphRequest.js133499875902520396 0
 76D:\studier\DT211G\moment1\DT211G\node_modules\lightningcss\node\targets.d.ts133499875897090506 0
 79D:\studier\DT211G\moment1\DT211G\node_modules\lightningcss\node\targets.js.flow133499875892106592 0
-51D:\studier\DT211G\moment1\DT211G\dist\pictures.html133500898678430213 0
+51D:\studier\DT211G\moment1\DT211G\dist\pictures.html133501457558916839 0
 61D:\studier\DT211G\moment1\DT211G\node_modules\json5\README.md133499875894313449 0
 66D:\studier\DT211G\moment1\DT211G\node_modules\json5\lib\index.d.ts133499875896498608 0
 117D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Nth.js133499875917789938 0
@@ -4401,7 +4402,7 @@
 101D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Selector.cjs133499875918352518 0
 91D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\text-decoration.js133499875961679998 0
 105D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\cjs\syntax\node\UnicodeRange.cjs133499875920476176 0
-60D:\studier\DT211G\moment1\DT211G\dist\index.bfeaffa8.css.map133500899842542083 0
+60D:\studier\DT211G\moment1\DT211G\dist\index.bfeaffa8.css.map133501457558095780 0
 100D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\cjs\syntax\function\var.cjs133499875921107584 0
 104D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\cjs\syntax\config\generator.cjs133499875908363103 0
 100D:\studier\DT211G\moment1\DT211G\node_modules\csso\node_modules\css-tree\cjs\syntax\config\lexer.cjs133499875914290970 0
@@ -5074,7 +5075,7 @@
 100D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\README.md133499875916685943 0
 75D:\studier\DT211G\moment1\DT211G\node_modules\@swc\helpers\cjs\_dispose.cjs133499875908682273 0
 77D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\regions\GB.js133499875939020493 0
-57D:\studier\DT211G\moment1\DT211G\dist\start.a93dce58.webp133500898677921601 0
+57D:\studier\DT211G\moment1\DT211G\dist\start.a93dce58.webp133501457557931372 0
 74D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\source-map\README.md133499875899250615 0
 99D:\studier\DT211G\moment1\DT211G\node_modules\abortcontroller-polyfill\dist\polyfill-patch-fetch.js133499875892799655 0
 77D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\regions\GD.js133499875939067129 0
@@ -5203,7 +5204,7 @@
 90D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\battery-status.js133499875912674665 0
 60D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\fs\lib133499875897834084 1
 92D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\beforeafterprint.js133499875913781175 0
-55D:\studier\DT211G\moment1\DT211G\dist\index.a8c929d2.js133500898678091113 0
+55D:\studier\DT211G\moment1\DT211G\dist\index.a8c929d2.js133500900041375737 0
 94D:\studier\DT211G\moment1\DT211G\node_modules\@babel\code-frame\node_modules\has-flag\index.js133499875887116975 0
 87D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\blobbuilder.js133499875914972406 0
 84D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\bloburls.js133499875915103010 0
@@ -5392,7 +5393,7 @@
 95D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\input-email-tel-url.js133499875941727981 0
 87D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\input-event.js133499875941779915 0
 96D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\input-file-directory.js133499875941852510 0
-57D:\studier\DT211G\moment1\DT211G\dist\cancel.47067806.png133500898677921601 0
+57D:\studier\DT211G\moment1\DT211G\dist\cancel.47067806.png133501457557931372 0
 97D:\studier\DT211G\moment1\DT211G\node_modules\@swc\helpers\cjs\_class_private_field_loose_key.cjs133499875900489207 0
 95D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\input-file-multiple.js133499875941886908 0
 91D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\input-minlength.js133499875941973836 0
@@ -5439,7 +5440,7 @@
 113D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate-override.js133499875951142974 0
 75D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\runtime-react-refresh133499875888533024 1
 101D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js133499875951371064 0
-56D:\studier\DT211G\moment1\DT211G\dist\start.9283fc96.png133500898677981547 0
+56D:\studier\DT211G\moment1\DT211G\dist\start.9283fc96.png133501457558026253 0
 108D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\Atrule.js133499875893852857 0
 89D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\mediarecorder.js133499875951540971 0
 80D:\studier\DT211G\moment1\DT211G\node_modules\caniuse-lite\data\features\menu.js133499875951622171 0
@@ -5902,7 +5903,7 @@
 90D:\studier\DT211G\moment1\DT211G\node_modules\@swc\helpers\esm\_assert_this_initialized.js133499875918862683 0
 74D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\transformer-svg\test133499875891745887 1
 82D:\studier\DT211G\moment1\DT211G\node_modules\@swc\helpers\esm\_async_generator.js133499875919123097 0
-56D:\studier\DT211G\moment1\DT211G\dist\DT211G.59712999.js133500899149509688 0
+56D:\studier\DT211G\moment1\DT211G\dist\DT211G.59712999.js133501457558966586 0
 85D:\studier\DT211G\moment1\DT211G\node_modules\@swc\helpers\esm\_async_to_generator.js133499875919394705 0
 75D:\studier\DT211G\moment1\DT211G\node_modules\@parcel\profiler\lib\Trace.js133499875892096616 0
 78D:\studier\DT211G\moment1\DT211G\node_modules\@swc\helpers\esm\_await_value.js133499875919584193 0
@@ -7114,14 +7115,15 @@
 77D:\studier\DT211G\moment1\DT211G\node_modules\.bin\update-browserslist-db.cmd133499875966361814 0
 58D:\studier\DT211G\moment1\DT211G\dist\cancel.2e178ab1.webp133500868434389321 0
 65D:\studier\DT211G\moment1\DT211G\dist\DT211G.59712999.js.23980.28133500876218747729 0
-60D:\studier\DT211G\moment1\DT211G\dist\DT211G.59712999.js.map133500899149549588 0
-55D:\studier\DT211G\moment1\DT211G\dist\home.7572f902.png133500898677971461 0
-60D:\studier\DT211G\moment1\DT211G\dist\index.0dbfd4c9.css.map133500898678111059 0
+60D:\studier\DT211G\moment1\DT211G\dist\DT211G.59712999.js.map133501457559026404 0
+55D:\studier\DT211G\moment1\DT211G\dist\home.7572f902.png133501457558026253 0
+60D:\studier\DT211G\moment1\DT211G\dist\index.0dbfd4c9.css.map133501457558270893 0
 55D:\studier\DT211G\moment1\DT211G\dist\index.38299d2a.js133500878862882916 0
 64D:\studier\DT211G\moment1\DT211G\dist\index.a8c929d2.js.23980.27133500876218747729 0
-56D:\studier\DT211G\moment1\DT211G\dist\index.c92073ef.css133500898678270724 0
-48D:\studier\DT211G\moment1\DT211G\dist\index.html133500899149227752 0
+56D:\studier\DT211G\moment1\DT211G\dist\index.c92073ef.css133501457557971402 0
+48D:\studier\DT211G\moment1\DT211G\dist\index.html133501457557821643 0
 55D:\studier\DT211G\moment1\DT211G\dist\menu.a7570520.png133500867351567077 0
 56D:\studier\DT211G\moment1\DT211G\dist\menu.d5f1a83b.webp133500875435866967 0
-58D:\studier\DT211G\moment1\DT211G\dist\pictures.8b0afbb9.js133500898678121029 0
-62D:\studier\DT211G\moment1\DT211G\dist\pictures.8b0afbb9.js.map133500898678140975 0
+58D:\studier\DT211G\moment1\DT211G\dist\pictures.8b0afbb9.js133501457557871791 0
+62D:\studier\DT211G\moment1\DT211G\dist\pictures.8b0afbb9.js.map133501457558026253 0
+62D:\studier\DT211G\moment1\DT211G\dist\pictures.a8c929d2.js.map133501457559016436 0

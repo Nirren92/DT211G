@@ -53,6 +53,18 @@ main .galleri img
 
 }
 
+main .ruta .holder
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+main .ruta .holder_item
+{
+    display: flex;
+    flex-direction: column;
+}
 
 
 @media only screen and (max-width: 349px) 

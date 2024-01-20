@@ -1,5 +1,13 @@
 
+const imageUrl_cancel = new URL(
+    '../img/cancel.png',
+    import.meta.url
+  );
 
+  const imageUrl_open = new URL(
+    '../img/menu.png',
+    import.meta.url
+  );
 
 
 
@@ -8,18 +16,18 @@ function show_menu()
    
 
 
-    if(document.getElementById("menu_knappen").src.includes("img/cancel.png"))
+    if(document.getElementById("menu_knappen").src.includes(imageUrl_cancel))
     {
         
         document.getElementById("menu_innehall").style.display="none";
-        document.getElementById("menu_knappen").src="img/menu.png"
+        document.getElementById("menu_knappen").src=imageUrl_open;
        
     }
 
     else
     {
         document.getElementById("menu_innehall").style.display="block";
-        document.getElementById("menu_knappen").src="img/cancel.png"
+        document.getElementById("menu_knappen").src=imageUrl_cancel;
         
     }
   

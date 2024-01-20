@@ -42,7 +42,7 @@ header
         display: inline-block;
         width: 100px;
        
-        background-color: aqua;
+        background-color: rgb(206, 135, 41);
 
 
     }
@@ -62,7 +62,7 @@ header
 
     nav ul li a:hover 
     {
-        background-color: black;
+        background-color: rgb(114, 74, 21);
     }
 
 

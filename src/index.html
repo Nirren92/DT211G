@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <defer  script src="js/javascriptheader.js"></script>
+    <script  src="js/javascriptheader.js" type="module" ></script>
     
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/header_style.css">
@@ -26,10 +26,10 @@
         
             <ul id="menu_innehall" >
                 <li><a href="index.html">
-                    <img class="home_icon" src="img/home.png" alt="Home icon">
+                    <img class="home_icon" src="img/home.png?as=webp" type="image/webp" alt="Home icon">
                     Sida 1</a></li>
                 <li><a href="pictures.html">Bilder</a></li>
-                <li><a href="workflow.html">Om Arbetsflöde</a></li>
+                <li><a href="workflow.html">Arbetsflöde</a></li>
             </ul>
 
         </nav>
@@ -41,14 +41,26 @@
             <div class="container">
 
                 <div class="ruta">
-                    
-                   <h1>Här har vi text</h1>
                    
+                    
+                    <div class="holder">
+                    
 
-                   <picture>
-                        <source srcset="img/start.png?as=webp" type="image/webp" />
-                        <img src="img/start.png" alt="bild på startsidan" />
-                    </picture>
+                        <div class="holder_item">
+
+                        <h1>Här har vi text</h1>
+                        
+                        <p style="margin-top: 20px;" > Denna uppgift har gått ut på att automatisera generering av filer samt publisering av dessa till en webhost. Även optimering/image cut av bilder har utförts genom automatisering. 
+
+                            <br><br>
+                            Detta möjligör för att minimera arbete som annars behöver utföras manuellt. 
+                        </p>
+                        <picture>
+                                <source srcset="img/start.png?as=webp" type="image/webp" />
+                                <img src="img/start.png" alt="bild på startsidan" />
+                            </picture>
+                        </div>
+                    </div>
 
                 </div>
             </div>

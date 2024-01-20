@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <defer  script src="js/javascriptheader.js"></script>
+    <script  src="js/javascriptheader.js" type="module" ></script>
     
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/header_style.css">
@@ -26,10 +26,10 @@
         
             <ul id="menu_innehall" >
                 <li><a href="index.html">
-                    <img class="home_icon" src="img/home.png" alt="Home icon">
+                    <img class="home_icon" src="img/home.png?as=webp" type="image/webp" alt="Home icon">
                     Sida 1</a></li>
                 <li><a href="pictures.html">Bilder</a></li>
-                <li><a href="workflow.html">Om Arbetsflöde</a></li>
+                <li><a href="workflow.html">Arbetsflöde</a></li>
             </ul>
 
         </nav>
@@ -100,16 +100,19 @@
 
                              </pre>
 
-                             <p>Denna Package fil underlättar installation av alla devDependencies som behövs för att kunna kompilera/optimera filer i hemsidan. </p>
+                             <p>Denna Package fil underlättar installation av alla devDependencies som behövs för att kunna kompilera/optimera filer i hemsidan. 
+                                Fillen skapas genom att köra följande kommando:
+                               
 
-                            <picture  >
-                                    <source srcset="img/auto_to_web.svg" type="image/webp" />
-                                    <img style="width: 95%; max-width: 600px" src="img/start.png" alt="bild på startsidan" />
-                            </picture>
+                             </p>
+
+                             <code style="margin-top: 30px;margin-bottom: 30px;">
+                                npm instal parcel --save-dev
+                               </code> 
                         </div>
 
                         <div class="holder_item">
-                            <h2>Automatisering av publisering</h2>
+                            <h2>Publisering till webbhost</h2>
                             <p>Figuren nedan beskriver hur publisering av en demosida går till med hjälp av Netlifly. Netlifly är en leverantör av en plattform för webhostning och har blivit använt för denna uppgift. </p>
 
                             <picture  >

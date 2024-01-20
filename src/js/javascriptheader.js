@@ -11,31 +11,29 @@ const imageUrl_cancel = new URL(
 
 
 
-function show_menu()
-{
-   
+ var bild_menu = document.getElementById("menu_knappen");
+
+ bild_menu.addEventListener("click", function() {
+
+  var nuvisas = document.getElementById("bilden_menu").srcset
 
 
-    if(document.getElementById("menu_knappen").src.includes(imageUrl_cancel))
+    if(nuvisas==imageUrl_cancel.pathname)
     {
         
         document.getElementById("menu_innehall").style.display="none";
-        document.getElementById("menu_knappen").src=imageUrl_open;
-       
+        document.getElementById("bilden_menu").srcset=imageUrl_open.pathname;
+        console.log("öppnar");
     }
 
     else
     {
         document.getElementById("menu_innehall").style.display="block";
-        document.getElementById("menu_knappen").src=imageUrl_cancel;
+        document.getElementById("bilden_menu").srcset =imageUrl_cancel.pathname;
+        console.log("stänger")
         
     }
   
     
-    const dynamicImage = document.getElementById('menu_knappen');
 
-    // Sätt den dynamiska sökvägen till bilden
-    const imagePath = 'img/cancel.png';
-    dynamicImage.src = imagePath;
-
-}
+});

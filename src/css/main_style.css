@@ -19,6 +19,10 @@ main .ruta
     width: 70%;
     margin: 0px 5%;
     text-align: center;
+    min-height: 600px;
+    text-align: center;
+
+
 }
 
 main .ruta img
@@ -38,12 +42,25 @@ main .ruta h1
     padding: 5px;
 }
 
+
+main .ruta p
+{
+    font-size: 2vw;
+   max-width: 60%;
+  
+    
+   text-align: left;
+   margin: auto;
+}
+
 main .galleri 
 {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
-    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 80px;
+    
 }
 
 main .galleri img
@@ -64,6 +81,22 @@ main .ruta .holder_item
 {
     display: flex;
     flex-direction: column;
+}
+
+
+pre
+{
+    background-color: #1e1e1e;
+    font-family: 'Consolas', 'Courier New', monospace;
+    color: #ffffff;
+    text-align: left;
+    width: 70%;
+    margin: auto;
+    margin-top:20px ;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 1vw;
+    
 }
 
 
@@ -97,5 +130,26 @@ main .ruta .holder_item
     {
         font-size: 12vw;
     }
+
+
+    
+    main .ruta p
+    {
+        font-size: 4vw;
+        width: 90%;
+        margin-left: 5%;
+        max-width: unset;
+    }
+
+
+
+    pre
+    {
+    
+        font-size: 2.6vw;
+    }
+    
+
+
 
 }

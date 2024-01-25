@@ -1,5 +1,5 @@
 {
-  "name": "moment1",
+  "name": "moment2",
   "version": "1.0.0",
   "description": "Packagefil for moment 1",
   "source": "src/index.html",
@@ -12,6 +12,13 @@
   "devDependencies": {
     "parcel": "^2.11.0",
     "sharp": "^0.31.3"
-  }
+  },
   
+  
+    "browserslist": "> 0.5%, last 2 versions, not dead"
+  
+  
+
+
+
 }
